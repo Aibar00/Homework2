@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="guitar">Guitar</string>
+    <string name="instrument_image">Instrument Image Description</string>
+</resources>
